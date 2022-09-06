@@ -1,0 +1,493 @@
+[
+  {
+    "description": "  Como usuario, desejo utilizar a Calculadora\n  Para que possa conferir minhas contas",
+    "keyword": "Funcionalidade",
+    "name": "Calculadora",
+    "line": 2,
+    "id": "calculadora",
+    "tags": [],
+    "uri": "Calculadora.feature",
+    "elements": [
+      {
+        "id": "calculadora;calcular-uma-soma-de-valores",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Calcular uma soma de valores",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 8,
+            "name": "que eu acesso a calculadora",
+            "result": {
+              "status": "passed",
+              "duration": 1838000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 9,
+            "name": "desejo realizar uma \"soma\"",
+            "result": {
+              "status": "passed",
+              "duration": 4000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 10,
+            "name": "informar os valores",
+            "result": {
+              "status": "passed",
+              "duration": 338000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 11,
+            "name": "finalizar a conta",
+            "result": {
+              "status": "passed",
+              "duration": 107000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 12,
+            "name": "devo obter o resultado",
+            "result": {
+              "status": "passed",
+              "duration": 26000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "calculadora;calcular-uma-subtração-de-valores",
+        "keyword": "Scenario",
+        "line": 14,
+        "name": "Calcular uma subtração de valores",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 15,
+            "name": "que eu acesso a calculadora",
+            "result": {
+              "status": "passed",
+              "duration": 428000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 16,
+            "name": "desejo realizar uma \"subtração\"",
+            "result": {
+              "status": "passed",
+              "duration": 2000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 17,
+            "name": "informar os valores",
+            "result": {
+              "status": "passed",
+              "duration": 257000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 18,
+            "name": "finalizar a conta",
+            "result": {
+              "status": "passed",
+              "duration": 91000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 19,
+            "name": "devo obter o resultado",
+            "result": {
+              "status": "passed",
+              "duration": 16000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "calculadora;calcular-uma-multiplicação-de-valores",
+        "keyword": "Scenario",
+        "line": 21,
+        "name": "Calcular uma multiplicação de valores",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 22,
+            "name": "que eu acesso a calculadora",
+            "result": {
+              "status": "passed",
+              "duration": 406000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 23,
+            "name": "desejo realizar uma \"multiplicação\"",
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 24,
+            "name": "informar os valores",
+            "result": {
+              "status": "passed",
+              "duration": 265000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 25,
+            "name": "finalizar a conta",
+            "result": {
+              "status": "passed",
+              "duration": 82000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 26,
+            "name": "devo obter o resultado",
+            "result": {
+              "status": "passed",
+              "duration": 9000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "calculadora;calcular-uma-divisão-de-valores",
+        "keyword": "Scenario",
+        "line": 28,
+        "name": "Calcular uma divisão de valores",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 29,
+            "name": "que eu acesso a calculadora",
+            "result": {
+              "status": "passed",
+              "duration": 390000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 30,
+            "name": "desejo realizar uma \"divisão\"",
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 31,
+            "name": "informar os valores",
+            "result": {
+              "status": "passed",
+              "duration": 259000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 32,
+            "name": "finalizar a conta",
+            "result": {
+              "status": "passed",
+              "duration": 81000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 33,
+            "name": "devo obter o resultado",
+            "result": {
+              "status": "passed",
+              "duration": 7000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "calculadora;calcular-uma-soma-de-valores",
+        "keyword": "Scenario",
+        "line": 44,
+        "name": "Calcular uma soma de valores",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 36,
+            "name": "que eu acesso a calculadora",
+            "result": {
+              "status": "passed",
+              "duration": 467000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 37,
+            "name": "desejo realizar uma \"soma\"",
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 38,
+            "name": "informar os valores",
+            "result": {
+              "status": "passed",
+              "duration": 254000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 39,
+            "name": "finalizar a conta",
+            "result": {
+              "status": "passed",
+              "duration": 84000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 40,
+            "name": "devo obter o resultado",
+            "result": {
+              "status": "passed",
+              "duration": 6000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "calculadora;calcular-uma-subtração-de-valores",
+        "keyword": "Scenario",
+        "line": 45,
+        "name": "Calcular uma subtração de valores",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 36,
+            "name": "que eu acesso a calculadora",
+            "result": {
+              "status": "passed",
+              "duration": 442000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 37,
+            "name": "desejo realizar uma \"subtração\"",
+            "result": {
+              "status": "passed",
+              "duration": 3000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 38,
+            "name": "informar os valores",
+            "result": {
+              "status": "passed",
+              "duration": 301000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 39,
+            "name": "finalizar a conta",
+            "result": {
+              "status": "passed",
+              "duration": 106000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 40,
+            "name": "devo obter o resultado",
+            "result": {
+              "status": "passed",
+              "duration": 8000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "calculadora;calcular-uma-multiplicação-de-valores",
+        "keyword": "Scenario",
+        "line": 46,
+        "name": "Calcular uma multiplicação de valores",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 36,
+            "name": "que eu acesso a calculadora",
+            "result": {
+              "status": "passed",
+              "duration": 396000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 37,
+            "name": "desejo realizar uma \"multiplicação\"",
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 38,
+            "name": "informar os valores",
+            "result": {
+              "status": "passed",
+              "duration": 255000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 39,
+            "name": "finalizar a conta",
+            "result": {
+              "status": "passed",
+              "duration": 82000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 40,
+            "name": "devo obter o resultado",
+            "result": {
+              "status": "passed",
+              "duration": 7000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "calculadora;calcular-uma-divisão-de-valores",
+        "keyword": "Scenario",
+        "line": 47,
+        "name": "Calcular uma divisão de valores",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 36,
+            "name": "que eu acesso a calculadora",
+            "result": {
+              "status": "passed",
+              "duration": 389000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 37,
+            "name": "desejo realizar uma \"divisão\"",
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 38,
+            "name": "informar os valores",
+            "result": {
+              "status": "passed",
+              "duration": 250000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 39,
+            "name": "finalizar a conta",
+            "result": {
+              "status": "passed",
+              "duration": 83000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 40,
+            "name": "devo obter o resultado",
+            "result": {
+              "status": "passed",
+              "duration": 7000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
